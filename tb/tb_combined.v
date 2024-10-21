@@ -17,7 +17,7 @@ Basic Read/Write: Verifies basic read and write functionality.
 */
 //----------------------------------------//
 
-/*module tb_combined;
+
 module tb_combined;
 
     reg clk;
