@@ -46,7 +46,8 @@ Basic understanding of Verilog HDL and digital design
 ### Running the Simulation
 1. Clone the repository:
 git clone https://github.com/teekamkhandelwal/SRAM_Controller.git
-cd sram-controller
+
+cd SRAM_Controller
 Open your Verilog simulator.
 
 Load sram_controller.v and tb_combined.v in the simulator.
