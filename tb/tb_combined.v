@@ -1,3 +1,23 @@
+
+//----------------------------------------//
+/* This testbench comprehensively tests the following features:
+
+EDAC: Error Detection and Correction.
+
+Power Saving: Checks if the system enters power save mode.
+
+Burst Operation: Verifies burst mode read and write operations.
+
+Security: Ensures correct password access and denies incorrect password access.
+
+CDC Operation: Tests clock domain crossing.
+
+Basic Read/Write: Verifies basic read and write functionality.
+
+*/
+//----------------------------------------//
+
+/*module tb_combined;
 module tb_combined;
 
     reg clk;
