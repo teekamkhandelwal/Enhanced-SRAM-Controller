@@ -75,5 +75,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
+> Teekam Chand Khandelwal
 
+⭐️ From [teekamkhandelwal](https://github.com/teekamkhandelwal)
 
