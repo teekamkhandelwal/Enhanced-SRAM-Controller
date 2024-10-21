@@ -45,7 +45,7 @@ Basic understanding of Verilog HDL and digital design
 
 ### Running the Simulation
 1. Clone the repository:
-git clone https://github.com/teekamkhandelwal/sram-controller.git
+git clone https://github.com/teekamkhandelwal/Enhanced-SRAM-Controller.git
 cd sram-controller
 Open your Verilog simulator.
 
